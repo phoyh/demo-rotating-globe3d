@@ -26,3 +26,9 @@ The sources are also included. Within your *assembly IDE*, you need to assemble 
 # Some History
 
 I used this demo as an intro for a self-made computer game. Just in case you wonder about that *strategic simulations* stuff. Also, the bottom text morphed constantly to provide information about the game. This is also removed from this repo.
+
+# Gallery
+
+| ![EarlyVersion2Colors](gallery/EarlyVersion2Colors.png) |
+| :--: |
+| Early version of two colors only but featuring the full globe animation |
