@@ -1,0 +1,3 @@
+bin/** linguist-generated
+includes/** linguist-vendored
+src/** linguist-language=Assembly
